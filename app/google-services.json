@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508616334661",
+    "firebase_url": "https://appoinmentapp-a5352-default-rtdb.firebaseio.com",
+    "project_id": "appoinmentapp-a5352",
+    "storage_bucket": "appoinmentapp-a5352.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508616334661:android:bf5f3b65d84ba5f2f8322c",
+        "android_client_info": {
+          "package_name": "com.example.appoinmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508616334661-0nnqnavl2od4iljoa72jt6raqn20qcoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAb6aKfe46B6RRczDzC-2Qd4ECjQrSfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508616334661-0nnqnavl2od4iljoa72jt6raqn20qcoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

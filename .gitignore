@@ -1,0 +1,29 @@
+# Android Studio and Gradle
+/app/src/main/*
+!/app/src/main/AndroidManifest.xml
+!/app/src/main/kotlin/
+/app/src/main/kotlin/*
+!/app/src/main/kotlin/com/
+!/app/src/main/kotlin/com/wecare/
+!/app/src/main/kotlin/com/wecare/app/
+!/app/src/main/kotlin/com/wecare/app/MainActivity.kt
+.gradle/
+**/build/
+local.properties
+**/local.properties
+.idea/
+**/.idea/
+*.iml
+
+# Native build outputs
+.externalNativeBuild/
+.cxx/
+
+# Signing credentials
+*.jks
+*.keystore
+key.properties
+
+# OS/editor files
+.DS_Store
+Thumbs.db
